@@ -5,7 +5,7 @@ import os
 
 # 目标URL列表
 urls = [ 'https://ip.164746.xyz',
-        'https://cf.090227.xyz'
+        'https://addressesapi.090227.xyz/ct'
         ]
 
 # 正则表达式用于匹配IP地址
