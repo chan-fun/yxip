@@ -4,7 +4,8 @@ import re
 import os
 
 # 目标URL列表
-urls = [ 'https://ip.164746.xyz','https://addressesapi.090227.xyz/ct'
+urls = [ 'https://ip.164746.xyz',
+        'https://ipdb.api.030101.xyz/?type=bestcf&country=true'
         ]
 
 # 正则表达式用于匹配IP地址
